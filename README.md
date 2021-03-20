@@ -14,6 +14,7 @@ This project uses LTSM method to predict the stock return.
 - sklearn
 
 ##### Instruction
+Download all the files at the same place and run the main.py
 
 - LSTM.py: this python file contains functions of data processing and LSTM model, and I package it as a class named LTSM_stock
 - main.py: the main function to get the final outcome
