@@ -15,8 +15,9 @@ This project uses LTSM method to predict the stock return.
 
 ##### Instruction
 
--LSTM.py: this python file contains functions of data processing and LSTM model, and I package it as a class named LTSM_stock
+- LSTM.py: this python file contains functions of data processing and LSTM model, and I package it as a class named LTSM_stock
 - main.py: the main function to get the final outcome
+- stock_data.xlsx: this excel file is the stock data getting from tushare that uses the getdata function in the LSTM.py
 
 ##### Contributions and thoughts
 
