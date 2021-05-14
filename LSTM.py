@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: 陈砺然 220040071
+@author: Liran CHEN 220040071
 """
 
 import pandas as pd
