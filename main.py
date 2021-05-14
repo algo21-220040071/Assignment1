@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Mar 20 23:56:49 2021
-
-@author: Muffler
+@author: Liran CHEN 220040071
 """
 from LSTM import LSTM_stock
 
